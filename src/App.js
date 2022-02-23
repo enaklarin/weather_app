@@ -54,7 +54,7 @@ return (
 
         </div>
 
-        {data.name !=undefined && 
+        {data.name != undefined && 
             <div className="bottom">
             <div className="feels">
             
